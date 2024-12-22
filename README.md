@@ -1,9 +1,12 @@
 # Spartan 4.0
-Latest Spartan Anticheat "One" 4.0 Crack
+Latest Spartan Anticheat **"One" 4.0** Crack
 
 # Requirements
 - ProtocolLib
 - PacketEvents
+
+# Usage
+Just drop `final.jar` onto your server's plugins folder 
 
 Have fun!
 
